@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo0NTQ3Njg=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="e945e332-3e42-46dc-b979-fd3ccd3baf2c" />
+              </chat>
+              <chat>
+                <internalId value="03ffb49f-c8f4-491c-a64c-51b2266d3f7f" />
+              </chat>
+              <chat>
+                <internalId value="acffd0b3-a96c-4409-9b2e-5a4149ffb256" />
+              </chat>
+              <chat>
+                <internalId value="71fc2791-7a32-4f0f-91b0-cf58a4ea6d76" />
+              </chat>
+              <chat>
+                <internalId value="2e3b427c-eab9-4ba0-8d3f-456a1b145b91" />
+              </chat>
+              <chat>
+                <internalId value="fd5cb816-4e64-47ae-98e6-331b5ac19efe" />
+              </chat>
+              <chat>
+                <internalId value="5b610f15-2beb-4437-bbd0-9660fbdd5516" />
+              </chat>
+              <chat>
+                <internalId value="cced3928-af76-4f75-8594-b8231fd643f9" />
+              </chat>
+              <chat>
+                <internalId value="3aba33b2-54cd-4ee1-a316-9733f8a0ddc6" />
+              </chat>
+              <chat>
+                <internalId value="20b3d0f6-b861-4743-ab30-03b5da39ed4b" />
+              </chat>
+              <chat>
+                <internalId value="2f712ff8-e2d5-42ce-83f2-d6d7b62645da" />
+              </chat>
+              <chat>
+                <internalId value="b48936db-074c-4bf5-8f31-4cd7ab4541de" />
+              </chat>
+              <chat>
+                <internalId value="bd7fcf7f-48e0-4ebe-8a23-e02439790707" />
+              </chat>
+              <chat>
+                <internalId value="246c19cc-148c-4588-9dcc-440ae1caaf80" />
+              </chat>
+            </list>
+          </chats>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
